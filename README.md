@@ -1,70 +1,35 @@
-# Getting Started with Create React App
+# Projeto: Meu Portfólio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Descrição: <br>
+O 'Meu Portfólio' é um projeto pessoal que desenvolvi para apresentar meu trabalho, habilidades <br>
+e experiência de uma forma profissional e acessível. Este é um espaço onde compartilho projetos significativos, <br>
+experiência de trabalho, educação e qualquer outra informação relevante sobre minha carreira.<br>
 
-## Available Scripts
+## Tecnologias utilizadas:<br>
+* HTML <br>
+* CSS <br>
+* React <br>
 
-In the project directory, you can run:
+## Pré-requisitos:<br>
+Antes de começar, certifique-se de ter instalado em sua máquina:<br>
 
-### `npm start`
+- VS Code <br>
+- Node.js <br>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Uso:<br>
+* Após instalar o VS Code, instale a extensão 'Live Server'.<br>
+* Crie uma pasta no seu computador:  'minha-pasta' <br>
+* Abra 'minha-pasta' no VS Code <br>
+* Abra o terminal no VS Code <br>
+* Clone o repositório: $ git clone https://github.com/stherystyll/Meu-Portfolio-React.git <br>
+* Execute o comando 'npm install' ou 'npm i'. Isso instalará todas as dependências do projeto listadas no arquivo package.json.<br>
+* Após a conclusão da instalação das dependências, você pode iniciar o servidor de desenvolvimento localmente. Você pode fazer isso executando o comando 'npm start'.<br>
+* O servidor de desenvolvimento será iniciado e o projeto React será aberto automaticamente no seu navegador padrão. Se não abrir automaticamente, você pode acessá-lo pressionando as teclas 'ctrl + shift + p' ou digitando http://localhost:3000 na barra de endereços do seu navegador.<br>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Link do site: [Meu Portfólio em React](https://portfolio-react-self-nine.vercel.app/) <br>
 
-### `npm test`
+## Contato:<br>
+Se você tiver alguma dúvida ou sugestão sobre o Projeto, sinta-se à vontade para entrar em contato:<br>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Email: sthery.styll@gmail.com<br>
+- LinkedIn: [Perfil no LinkedIn](https://www.linkedin.com/in/sthery-alves-5214ab99/)
