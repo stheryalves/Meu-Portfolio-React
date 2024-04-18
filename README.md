@@ -5,6 +5,13 @@ O 'Meu Portfólio' é um projeto pessoal que desenvolvi para apresentar meu trab
 e experiência de uma forma profissional e acessível. Este é um espaço onde compartilho projetos significativos, <br>
 experiência de trabalho, educação e qualquer outra informação relevante sobre minha carreira.<br>
 
+<br>
+<div style="display-grid" >
+  <img width="50%" src="https://github.com/stheryalves/Meu-Portfolio-React/assets/134507985/49e03e06-db92-4095-adcb-470daf7ca837" >
+  <img width="50%" src="https://github.com/stheryalves/Meu-Portfolio-React/assets/134507985/e17066ac-d678-45d7-a4d5-8680def41dd3" >
+</div>
+<br>
+
 ## Tecnologias utilizadas:<br>
 * HTML <br>
 * CSS <br>
